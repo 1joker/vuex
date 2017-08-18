@@ -33,7 +33,7 @@ new Vue({
 - **view**，以声明方式将**state**映射到视图；
 - **actions**，响应在**view**上的用户输入导致的状态变化。
 
-以下是一个表示“单向数据流”理念的极简示意：
+以下是一个表示“单向数据流”理念的极简示意：2
 
 <p style="text-align: center; margin: 2em">
   <img style="width:100%;max-width:450px;" src="./images/flow.png">
